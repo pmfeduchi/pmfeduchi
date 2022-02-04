@@ -1,4 +1,4 @@
--Hi, I’m @pmfeduchi
+- Hi, I’m @pmfeduchi
 - I’m interested in genetics and neuroscience.
 - I’m currently learning how to code in R.
 
