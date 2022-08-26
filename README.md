@@ -1,6 +1,6 @@
 - Hi, I’m @pmfeduchi
 - I’m interested in genetics and neuroscience.
-- I’m currently learning how to code in R.
+-I'm learning how to code in R to improve my data analysis techniques.
 
 <!---
 pmfeduchi/pmfeduchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
